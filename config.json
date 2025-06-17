@@ -1,0 +1,12 @@
+{
+  "flagged_threshold": 0.6,
+  "banned_threshold": 0.9,
+  "activity_score_threshold": 0.6,
+  "version": "1.0",
+  "field_weights": {
+    "mutual_upvote_count": 1.0,
+    "karma_bursts": 0.8,
+    "junk_comment_count": 0.7
+  },
+  "exempt_users": ["stu_admin"]
+}
